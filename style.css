@@ -1,0 +1,64 @@
+body {
+  background-color: #000;
+}
+
+.container img {
+  width: 50px;
+}
+.container p {
+  margin-top: 0.8rem;
+  margin-left: 0.5rem;
+  font-weight: 700;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.jumbotron p {
+  font-size: 1.3rem;
+  border-bottom: 0.1rem solid #fff;
+  padding-bottom: 0.8rem;
+}
+.jumbotron h1 {
+  margin-top: 5rem;
+}
+
+.jumbotron {
+  color: #fff;
+  padding: 2rem;
+}
+.film-1 {
+  display: flex;
+  color: #fff;
+  padding: 1.4rem 7%;
+}
+.film-1 h1 {
+  margin-bottom: 1rem;
+}
+.film-2 h1 {
+  margin-bottom: 1rem;
+}
+.film-3 h1 {
+  margin-bottom: 1rem;
+}
+
+.film-2 {
+  display: flex;
+  color: #fff;
+  margin-top: 5rem;
+  padding: 1.4rem 7%;
+  margin-bottom: 8rem;
+}
+
+.film-3 {
+  display: flex;
+  color: #fff;
+  margin-top: 3rem;
+  padding: 1.4rem 7%;
+  margin-bottom: 8rem;
+}
+
+.video iframe {
+  margin-left: 3rem;
+  margin-right: -3rem;
+  margin-top: 4rem;
+}
